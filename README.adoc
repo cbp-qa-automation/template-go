@@ -1,0 +1,4 @@
+== Automation DSL Template for Go
+
+This is a boilerplate template to use as a basis for building Go applications.
+
